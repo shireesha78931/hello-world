@@ -1,2 +1,2 @@
 # hello-world
-this is shireesha practising with github
+this is shireesha practicing with gethub
